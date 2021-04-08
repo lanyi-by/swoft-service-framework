@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a063009-f210-48d1-a2bd-b17e5b2a991c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/swoft-service-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/app/Http/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/app/Http/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/user/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/user/composer.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/xt-user/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/user" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xt-gateway/.gitignore" />
+        <option value="$PROJECT_DIR$/xt-user/.env" />
+        <option value="$PROJECT_DIR$/gateway/.gitignore" />
+        <option value="$PROJECT_DIR$/user/.gitignore" />
+        <option value="$PROJECT_DIR$/user/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/xt-user/vendor/php-amqplib/php-amqplib" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/composer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/toolkit/cli-utils" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swlib/saber" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swlib/http" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swlib/util" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/http-message" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/aop" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/log" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/breaker" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/websocket-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/session" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/text/template" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/error" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/validator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/redis" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/stdlib" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/view" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/devtool" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/limiter" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/tcp-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/rpc-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/http-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/bean" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/event" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/annotation" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/swoole-ide-helper" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/console" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/tcp" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/rpc" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/process" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/apollo" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/crontab" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/proxy" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/i18n" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/task" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/framework" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/consul" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/connection-pool" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/config" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/rpc-client" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/db" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phar-io/manifest" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/swoft-service-framework.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2097" />
+    <option name="y" value="109" />
+    <option name="width" value="1551" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swoft-service-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swoft-service-framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swoft-service-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swoft-service-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swoft-service-framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a063009-f210-48d1-a2bd-b17e5b2a991c" name="Default Changelist" comment="" />
+      <created>1617788319437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617788319437</updated>
+      <workItem from="1617788320535" duration="2760000" />
+      <workItem from="1617854460675" duration="4217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6977000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2097" y="109" width="1551" height="839" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22870557" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xt-gateway/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xt-gateway/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5900">
+          <caret line="236" column="20" lean-forward="true" selection-start-line="236" selection-start-column="20" selection-end-line="236" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xt-gateway/composer.cn.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xt-gateway/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xt-user/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xt-gateway/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/协同供应商.patch">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/app/bean.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

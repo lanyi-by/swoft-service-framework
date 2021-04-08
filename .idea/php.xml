@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/xt-user/vendor/php-amqplib/php-amqplib" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/composer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/toolkit/cli-utils" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swlib/saber" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swlib/http" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swlib/util" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/http-message" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/aop" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/log" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/breaker" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/websocket-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/session" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/text/template" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/error" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/validator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/redis" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/stdlib" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/view" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/devtool" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/limiter" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/tcp-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/rpc-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/http-server" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/bean" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/event" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/annotation" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/swoole-ide-helper" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/console" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/tcp" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/rpc" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/process" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/apollo" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/crontab" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/proxy" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/i18n" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/task" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/framework" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/consul" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/connection-pool" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/config" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/rpc-client" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/swoft/db" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/xt-user/vendor/phar-io/manifest" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/xt-user/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
